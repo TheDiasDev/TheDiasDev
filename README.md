@@ -1,8 +1,9 @@
-# 👋 Dias — Web3 Solidity Developer
+## 🚀 What I'm building
 
-🚀 Web3 Solidity Developer | Building in public  
-🔐 Focused on smart contract security  
-⚡ Base ecosystem builder  
+- 🪙 ERC-20 token implementations (custom logic)
+- 🔐 Smart contract security experiments & audits (learning phase)
+- 📈 Staking systems on Base ecosystem
+- 🤖 AI x Web3 agents exploration
 
 ---
 
@@ -17,21 +18,26 @@
 
 ## 🚀 Current Focus
 
-- Smart contract audits (learning phase)
-- Staking systems (Base)
-- Airdrop strategies & onchain reputation
-- AI x Web3 experiments
+- Smart contract auditing (hands-on practice)
+- Building on Base ecosystem (airdrops & builder programs)
+- Onchain reputation (Talent Protocol, Gitcoin)
+- Improving testing & security patterns
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 ERC20 Token
-Custom implementation with mint & burn logic  
+### 🔹 ERC-20 Token
+Custom token implementation with mint and burn logic  
+Focus: fundamentals + extensibility  
+
 👉 https://github.com/TheDiasDev/Token-ERC-20
 
+
 ### 🔹 Staking Contract
-Reward-based staking system  
+Reward-based staking system built for Base ecosystem  
+Focus: reward logic, state management  
+
 👉 https://github.com/TheDiasDev/staking-base
 
 ---
@@ -44,6 +50,12 @@ I share my journey, experiments and learnings on Web3:
 
 ---
 
+## 📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=TheDiasDev&show_icons=true&theme=dark
+
+---
+
 ## 🎯 Goals
 
 - Contribute to Web3 security
@@ -52,4 +64,15 @@ I share my journey, experiments and learnings on Web3:
 
 ---
 
-⚡ Consistency > perfection. Building daily.
+## 🌐 Let's connect
+
+🐦 https://x.com/CryptoTheDias  
+
+💬 Open to:
+- Web3 collaborations  
+- Smart contract security learning opportunities  
+- Builder programs & grants  
+
+---
+
+⚡ Building every day. Follow the journey.
