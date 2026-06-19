@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Dias — Web3 Solidity Developer
 
-<!--
-**TheDiasDev/TheDiasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web3 Solidity Developer | Building in public  
+🔐 Focused on smart contract security  
+⚡ Base ecosystem builder  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Solidity
+- TypeScript
+- Hardhat / Foundry
+- Ethers.js / Viem
+
+---
+
+## 🚀 Current Focus
+
+- Smart contract audits (learning phase)
+- Staking systems (Base)
+- Airdrop strategies & onchain reputation
+- AI x Web3 experiments
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 ERC20 Token
+Custom implementation with mint & burn logic  
+👉 https://github.com/TheDiasDev/Token-ERC-20
+
+### 🔹 Staking Contract
+Reward-based staking system  
+👉 https://github.com/TheDiasDev/staking-base
+
+---
+
+## 📈 Building in Public
+
+I share my journey, experiments and learnings on Web3:
+
+🐦 https://x.com/CryptoTheDias
+
+---
+
+## 🎯 Goals
+
+- Contribute to Web3 security
+- Join builder programs (Base, Gitcoin, etc)
+- Get involved in audits & real protocols
+
+---
+
+⚡ Consistency > perfection. Building daily.
